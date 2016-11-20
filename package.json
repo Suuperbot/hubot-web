@@ -6,12 +6,12 @@
   },
   "main": "./index",
   "devDependencies": {
-    "coffee-script": "1.1.3"
+    "coffee-script": "1.11.1"
   },
   "description": "readme.md",
   "dependencies": {
-    "request": "2.12.0",
-    "string": "1.3.0"
+    "request": "2.79.0",
+    "string": "3.3.3"
   },
   "repository": {
     "type": "git",
